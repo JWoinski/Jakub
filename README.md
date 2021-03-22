@@ -1,4 +1,5 @@
-# Jakub
+# Jakub Gra Java
+
 
 Gra została napisana na potrzebny zaliczenia.
 
